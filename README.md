@@ -1,6 +1,5 @@
-# About
+# About me
 <div align="left">
-  <h1>About me</h1>
   <p>Hi, I'm Evgeny Asheichyk, frontend developer from Grodno, Belarus.</p>
   <p>I like doing web development and getting new knowledge.</p>
   <p>Now I am looking for an opportunity to gain experience in the company and I want to be useful to the team.</p>
