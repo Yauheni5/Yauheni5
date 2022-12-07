@@ -1,6 +1,7 @@
-<div>
+# About
+<div align="left">
   <h1>About me</h1>
-  <p>Hi, I'm Evgeny Asheichyk, junior front-end developer from Grodno, Belarus.</p>
+  <p>Hi, I'm Evgeny Asheichyk, frontend developer from Grodno, Belarus.</p>
   <p>I like doing web development and getting new knowledge.</p>
   <p>Now I am looking for an opportunity to gain experience in the company and I want to be useful to the team.</p>
 </div>
@@ -11,6 +12,8 @@
   <img src="https://miro.medium.com/max/960/1*-tOldEbfjijxn9VqZeULqg.gif" alt="JS" width="50">
   <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" alt="HTML" width="50" height="50">
   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" alt="CSS" width="50">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="node.js" width="50" height="50">
+  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" alt="mongoDB" width="100" height="50">
 </div>
 
 ### :fire: Links:
